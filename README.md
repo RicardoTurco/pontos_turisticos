@@ -6,15 +6,15 @@ ministred by Gregory Pacheco on the UDEMY.
 
 ## Road Map:
 
-Create and activate VENV
+Create and activate VENV  
+(using Python 3.7 version)
 
-pip install -r requirements-dev.txt
-(for production enviroment replace for "requirements.txt")
+pip install -r requirements.txt  
 
-python manage.py makemigrations
+python manage.py makemigrations  
 
-python manage.py migrate
+python manage.py migrate  
 
-python manage.py createsuperuser
+python manage.py createsuperuser  
 
-python manage.py runserver
+python manage.py runserver  
