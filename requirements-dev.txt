@@ -3,7 +3,7 @@ dj-static==0.0.6
 Django==2.1.4
 django-filter==2.0.0
 djangorestframework==3.9.0
-Pillow==5.4.1
+Pillow==8.3.2
 python-decouple==3.1
 pytz==2018.7
 static3==0.7.0
